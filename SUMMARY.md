@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Overview](chapter1.md)
-  * Android/NDK
+* [Overview]
+  * Android/NDK(overview/vr_android.md)
   * iOS
   * Unity
   * Unreal
@@ -91,7 +91,7 @@
   * iOS
   * Unity
   * Unreal
-* 版本说明 
+* 版本说明
   * Android/NDK
   * iOS
   * Unity
