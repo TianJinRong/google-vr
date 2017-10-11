@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Overview]
-  * Android/NDK(overview/vr_android.md)
+* Overview
+  * [Android/NDK](overview/vr_android.md)
   * iOS
   * Unity
   * Unreal
