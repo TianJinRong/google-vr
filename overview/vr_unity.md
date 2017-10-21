@@ -50,8 +50,6 @@ Unity对Google VR的原生支持简化了以下开发：
 
 * [Android版入门指南](https://developers.google.com/vr/unity/get-started)教你创建Daydream头显和VR眼镜在Android平台下应用，[iOS版入门指南](https://developers.google.com/vr/unity/get-started-ios)教你创建VR眼镜在iOS平台下应用。
 
-* 使用我们的入门指南[Android]（https://developers.google.com/vr/unity/get-started）来构建Daydream或Cardboard应用程序，或[iOS]（https://developers.google.com） / vr / unity / get-started-ios）构建Cardboard应用程序。
-
 * 下载[Google VR Unity SDK](https://developers.google.com/vr/unity/download)
 
 * 了解更新关于Google VR Unity SDK文档 ，请参阅[Unity API参考](https://developers.google.com/vr/unity/reference/index)
