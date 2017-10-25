@@ -8,7 +8,7 @@
   * [Unreal](overview/vr_unreal.md)
 * 快速入门
   * Android
-    * 使用Java在Android下开发
+    * [使用Java在Android下开发](get_started/android/vr_android_get_started.md)
     * 使用C/C++在Android下开发
   * iOS
     * 在iOS下开发
